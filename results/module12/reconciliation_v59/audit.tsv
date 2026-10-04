@@ -1,0 +1,10 @@
+metric	value
+old_rows	9471
+new_rows	9814
+shared_keys	7609
+old_only	1862
+new_only	2205
+net_new_minus_old	343
+shared_posterior_changed	0
+shared_interpretation_changed	0
+old_ids_reused_for_different_key	7489

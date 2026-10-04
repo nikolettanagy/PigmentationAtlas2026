@@ -1,0 +1,2 @@
+module	start_time	end_time	runtime_seconds	input_coloc_units	unique_clumps	unique_genes	unique_phenotypes	unique_tissues	strong_h4_units	moderate_h4_units	suggestive_h4_units	h3_dominant_units	high_confidence_h4_units	critical_failures	warnings	final_status
+12.4	2026-10-04 06:15:33	2026-10-04 06:15:35	1.59465098381042	9814	257	2024	2849	2	30	54	239	424	30	0	0	PASS

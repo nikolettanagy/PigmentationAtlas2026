@@ -1,0 +1,2 @@
+module	analysis	status	total_clumps	evaluable_clumps	reclassified_clumps	reclassified_percent	gencode_file	prioritization_file	generated_at
+Module 12.6	Colocalization-driven Gene Reclassification	SUCCESS	1325	130	111	85.3846153846154	C:/Users/User/Desktop/PigmentationAtlas_release_fresh_v72/data/annotations/processed/GENCODE_v50_genes_GRCh38.tsv.gz	C:/Users/User/Desktop/PigmentationAtlas_release_fresh_v72/results/module12/colocalization/biological_annotation/gene_level/module12_5C_best_gene_per_clump_GENCODEv50.tsv.gz	2026-10-04 06:16:14

@@ -1,0 +1,8 @@
+assignment_method	outcome	N
+Nearest coding gene	Different coding gene	47
+Overlapping coding gene	Different coding gene	60
+Nearest coding gene	Unchanged coding gene	10
+Overlapping coding gene	Pseudogene	2
+Overlapping coding gene	Unchanged coding gene	9
+Nearest coding gene	Pseudogene	1
+Nearest coding gene	Regulatory RNA	1

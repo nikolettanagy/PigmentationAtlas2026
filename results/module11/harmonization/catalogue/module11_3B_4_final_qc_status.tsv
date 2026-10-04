@@ -1,0 +1,2 @@
+module	module_name	start_time	end_time	runtime_seconds	expected_files	checked_files	failed_files	total_rows	files_with_original_qc_flags	files_with_final_flags	critical_flagged_rows	warning_flagged_rows	integrity_failures	missing_expected_column_instances	final_catalogue_lines	final_catalogue_data_rows	final_status
+11.3B.4	final harmonized apaQTL catalogue QC	2026-10-02 12:19:09	2026-10-02 12:27:56	527.212	516	516	0	14765046	0	0	0	0	0	0	14765047	14765046	PASS

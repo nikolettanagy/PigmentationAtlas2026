@@ -1,0 +1,8 @@
+step	stage	main_value	main_label	qc_text	status
+1	GWAS harmonization	21.8 million	harmonized variants	Variant identifiers, alleles, positions and association statistics harmonized	PASSED
+2	Genome-wide signal selection	33,455	genome-wide significant variants	Variants retained at P < 5 × 10⁻⁸	PASSED
+3	LD clumping	1,325	independent PLINK clumps	Independent association signals defined using the EUR LD reference panel	PASSED
+4	Genomic locus construction	194	merged genomic loci	Complete locus construction: 0 empty loci; 0 missing lead variants	PASSED
+5	Candidate-gene annotation	2,024	candidate genes	GENCODE v50 gene annotation and biotype assignment	PASSED
+6	Molecular QTL colocalization	9,814	completed colocalization analyses	H4 evidence: 30 strong, 54 moderate and 239 suggestive analyses	PASSED
+7	Effector-gene prioritization	130	H4-supported evaluable clumps	111 reassigned; 19 unchanged (85.4% reassignment)	PASSED

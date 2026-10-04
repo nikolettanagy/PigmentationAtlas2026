@@ -1,0 +1,24 @@
+check	observed	expected	status
+clean catalogue units	9814	9814	PASS
+evaluable clumps	130	130	PASS
+reclassified clumps	111	111	PASS
+priority STRONG_H4	30	30	PASS
+priority MODERATE_H4	54	54	PASS
+priority SUGGESTIVE_H4	239	239	PASS
+priority H3_DOMINANT	424	424	PASS
+priority INCONCLUSIVE	9067	9067	PASS
+Figure 2 units	9814	9814	PASS
+S2 units	9814	9814	PASS
+S3A units	9814	9814	PASS
+S3B H4 units	323	323	PASS
+S4 tissue units	9814	9814	PASS
+S5 source rows	9814	9814	PASS
+S6 clumps	1325	1325	PASS
+S6 evaluable	130	130	PASS
+S6 reclassified	111	111	PASS
+Figure 3 evaluable	130	130	PASS
+Figure 3 reclassified	111	111	PASS
+Figure 4 evaluable	130	130	PASS
+Figure 4 reclassified	111	111	PASS
+Figure 5 evaluable	130	130	PASS
+Figure 5 reclassified	111	111	PASS

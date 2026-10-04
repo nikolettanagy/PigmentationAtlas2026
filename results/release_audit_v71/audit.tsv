@@ -1,0 +1,38 @@
+metric	observed	expected	result
+GWAS clean variants	21831407	21831407	PASS
+eligible rows	9814	9814	PASS
+unit status rows	9814	9814	PASS
+catalogue rows	9814	9814	PASS
+catalogue QC rows	9814	9814	PASS
+eligible unique IDs	9814	9814	PASS
+unit status unique IDs	9814	9814	PASS
+catalogue unique IDs	9814	9814	PASS
+catalogue QC unique IDs	9814	9814	PASS
+queue equals catalogue IDs	TRUE	TRUE	PASS
+queue equals status IDs	TRUE	TRUE	PASS
+queue equals QC IDs	TRUE	TRUE	PASS
+failed units	0	0	PASS
+critical unit QC	0	0	PASS
+invalid posteriors	0	0	PASS
+Module 11 final QC	PASS	PASS	PASS
+Module 12.4	PASS	PASS	PASS
+Module 12.6	SUCCESS	SUCCESS	PASS
+priority input_coloc_units	9814	9814	PASS
+priority strong_h4_units	30	30	PASS
+priority moderate_h4_units	54	54	PASS
+priority suggestive_h4_units	239	239	PASS
+priority h3_dominant_units	424	424	PASS
+reclass total_clumps	1325	1325	PASS
+reclass evaluable_clumps	130	130	PASS
+reclass reclassified_clumps	111	111	PASS
+figure numeric checks PASS	23	23	PASS
+figure files PASS	33	33	PASS
+reconciliation old_rows	9471	9471	PASS
+reconciliation new_rows	9814	9814	PASS
+reconciliation shared_keys	7609	7609	PASS
+reconciliation old_only	1862	1862	PASS
+reconciliation new_only	2205	2205	PASS
+reconciliation shared_posterior_changed	0	0	PASS
+required inputs present	7	7	PASS
+apaQTL Parquet inputs	46	46	PASS
+required packages installed	12	12	PASS

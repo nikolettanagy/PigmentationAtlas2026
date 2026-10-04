@@ -1,0 +1,10 @@
+panel	category	n	percent
+B	Reclassified	111	85.3846153846154
+B	Unchanged	19	14.6153846153846
+C	Different protein-coding gene	107	82.3076923076923
+C	Unchanged protein-coding gene	19	14.6153846153846
+C	Pseudogene	3	2.30769230769231
+C	Regulatory RNA	1	0.769230769230769
+D	Strong H4	14	73.6842105263158
+D	Moderate H4	29	93.5483870967742
+D	Suggestive H4	68	85

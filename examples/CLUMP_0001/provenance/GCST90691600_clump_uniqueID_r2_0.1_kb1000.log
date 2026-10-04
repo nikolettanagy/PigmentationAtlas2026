@@ -1,0 +1,31 @@
+PLINK v2.0.0-a.7.1 64-bit (4 May 2026)
+Options in effect:
+  --clump .\results\GCST90691600_clumping_input_uniqueID.tsv
+  --clump-id-field ID
+  --clump-kb 1000
+  --clump-p-field P
+  --clump-p1 5e-8
+  --clump-p2 0.05
+  --clump-r2 0.1
+  --out .\results\GCST90691600_clump_uniqueID_r2_0.1_kb1000
+  --pfile .\reference\1000G_GRCh38\1000G_GRCh38_EUR_uniqueID vzs
+
+Hostname: DESKTOP-IHQFMPL
+Working directory: C:\Users\User\Desktop\PigmentationAtlas
+Start time: Thu Jul 16 05:37:00 2026
+
+Random number seed: 1784173020
+95859 MiB RAM detected; reserving 47929 MiB for main workspace.
+Using up to 32 threads (change this with --threads).
+633 samples (328 females, 305 males; 525 founders) loaded from
+.\reference\1000G_GRCh38\1000G_GRCh38_EUR_uniqueID.psam.
+70692015 variants loaded from
+.\reference\1000G_GRCh38\1000G_GRCh38_EUR_uniqueID.pvar.zst.
+2 categorical phenotypes loaded.
+Warning: 1076 top variant IDs in --clump file missing from main dataset.  IDs
+written to
+.\results\GCST90691600_clump_uniqueID_r2_0.1_kb1000.clumps.missing_id .
+--clump: 1325 clumps formed from 32379 index candidates.
+Results written to .\results\GCST90691600_clump_uniqueID_r2_0.1_kb1000.clumps .
+
+End time: Thu Jul 16 05:37:20 2026

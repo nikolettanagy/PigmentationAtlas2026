@@ -1,0 +1,5 @@
+parameter	value	description
+nominal_p	0.05	Nominal cis-eQTL threshold; descriptive only
+strong_p	5e-8	Strong statistical signal threshold when q-values are unavailable
+q_value	0.05	FDR/q-value threshold when available
+minimum_strong_variants	2	Minimum variants below strong_p for dataset-level Strong support

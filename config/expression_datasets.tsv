@@ -1,0 +1,3 @@
+﻿dataset_id	database	database_version	tissue	tissue_category	trait_relevance	genome_build	file_format	file_path	enabled
+GTEx_v10_Skin_Sun	GTEx	V10	Skin - Sun Exposed (Lower leg)	Skin	Pigmentation-relevant skin tissue	GRCh38	parquet	data/expression/GTEx/Skin_Sun_Exposed_Lower_leg.v10.eQTLs.signif_pairs.parquet	TRUE
+GTEx_v10_Skin_NotSun	GTEx	V10	Skin - Not Sun Exposed (Suprapubic)	Skin	Pigmentation-relevant skin tissue	GRCh38	parquet	data/expression/GTEx/Skin_Not_Sun_Exposed_Suprapubic.v10.eQTLs.signif_pairs.parquet	TRUE
