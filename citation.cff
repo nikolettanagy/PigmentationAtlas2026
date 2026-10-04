@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived v1.0.0 release."
+type: software
+title: "PigmentationAtlas: An Integrative GWAS–apaQTL Colocalization Pipeline for Human Pigmentation Genetics"
+version: "1.0.0"
+date-released: 2026-10-04
+doi: 10.5281/zenodo.23134292
+repository-code: "https://github.com/nikolettanagy/PigmentationAtlas2026"
+license: MIT
+authors:
+
+* family-names: Nagy
+  given-names: Nikoletta
+  orcid: "https://orcid.org/0000-0001-8576-7953"
